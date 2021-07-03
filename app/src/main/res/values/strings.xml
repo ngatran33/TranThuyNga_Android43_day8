@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TranThuyNga_Android43_day7</string>
+    --Main_ activity__
+    <string name="create">Create New Note</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="des">Description</string>
+    <string name="remind">Remind me at:</string>
+    <string name="gio">14:20</string>
+    <string name="ngay">04/03/2016</string>
+    <string name="type">Type:</string>
+    <string name="tags">Tags:</string>
+    <string name="week">Weeks:</string>
+    <string name="tune">Tune</string>
+    <string name="tagss">Android, VTC, FPT, Game</string>
+    <string name="weeks">Mon, Thu, Sat</string>
+    ---menu---
+    <string name="cancel">Cancel</string>
+    --tune----
+    <string name="file">From File</string>
+    <string name="defaults">From defaults</string>
+    --
+</resources>

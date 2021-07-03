@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/file"
+        android:id="@+id/mnFile"/>
+    <item android:id="@+id/mnDefault"
+        android:title="@string/defaults"/>
+</menu>
